@@ -121,5 +121,3 @@ Users are responsible for reviewing, adapting, validating, and maintaining any p
 Maintainer: Zane Billings <wz.billings@gmail.com>
 
 This repository is intended to remain practical and lightweight. Additions should be clear, reusable, and grounded in actual academic or research workflow needs.
-
-All contributors agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
